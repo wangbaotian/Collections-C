@@ -1,6 +1,6 @@
-Collections-C
+Collections-C 
 =============
-
+说明:barton->此库包含非常优秀的list,qeuue,hash,hashtable
 > A library of generic data structures including a list, array, hashtable, deque etc..
 
 [![Codeship Status for srdja/Collections-C](https://app.codeship.com/projects/493e5560-6064-0137-ef52-72c4cd7e8b98/status?branch=master)](https://app.codeship.com/projects/344074)
